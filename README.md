@@ -1,4 +1,4 @@
-# Landing Page "Intro section with dropdown navigation"
+# Projeto de "Página de Receita" 🥘
 
 <p align="center">
   Este é um projeto sobre <a href="https://matias-ezequiel-correa.github.io/projeto-pagina-de-receita/" target="_blank">Projeto Receita | By Matías Correa,</a> é uma página de receita, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
